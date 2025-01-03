@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
