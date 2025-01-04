@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MadhanaHarish/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
 | [0504-base-7](https://github.com/MadhanaHarish/LeetCode/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/MadhanaHarish/LeetCode/tree/master/1070-convert-to-base-2) |
 ## Recursion
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0027-remove-element](https://github.com/MadhanaHarish/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
 | ------- |
