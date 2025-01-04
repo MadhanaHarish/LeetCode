@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MadhanaHarish/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -55,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/MadhanaHarish/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
