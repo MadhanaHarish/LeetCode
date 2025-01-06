@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/MadhanaHarish/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhanaHarish/LeetCode/tree/master/0069-sqrtx) |
 | [0504-base-7](https://github.com/MadhanaHarish/LeetCode/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/MadhanaHarish/LeetCode/tree/master/1070-convert-to-base-2) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Two Pointers
 |  |
@@ -70,8 +72,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MadhanaHarish/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
