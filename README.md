@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MadhanaHarish/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
@@ -82,9 +83,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
