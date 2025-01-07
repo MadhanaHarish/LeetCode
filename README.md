@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/MadhanaHarish/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/MadhanaHarish/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MadhanaHarish/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
@@ -91,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
