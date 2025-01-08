@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/MadhanaHarish/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/MadhanaHarish/LeetCode/tree/master/0093-restore-ip-addresses) |
 ## String Matching
 |  |
 | ------- |
@@ -105,4 +106,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/MadhanaHarish/LeetCode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
