@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/MadhanaHarish/LeetCode/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/MadhanaHarish/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/MadhanaHarish/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
@@ -107,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/MadhanaHarish/LeetCode/tree/master/0093-restore-ip-addresses) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
