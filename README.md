@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
+| [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/MadhanaHarish/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
