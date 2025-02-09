@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
+| [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
+| [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
