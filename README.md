@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/MadhanaHarish/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/MadhanaHarish/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Matrix
 |  |
 | ------- |
@@ -184,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MadhanaHarish/LeetCode/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
