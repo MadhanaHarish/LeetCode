@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhanaHarish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/MadhanaHarish/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/MadhanaHarish/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MadhanaHarish/LeetCode/tree/master/0062-unique-paths) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Memoization
