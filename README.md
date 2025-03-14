@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhanaHarish/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
