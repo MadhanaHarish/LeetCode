@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0917-boats-to-save-people](https://github.com/MadhanaHarish/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/MadhanaHarish/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/MadhanaHarish/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/MadhanaHarish/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1894-merge-strings-alternately](https://github.com/MadhanaHarish/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
