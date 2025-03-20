@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/MadhanaHarish/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/MadhanaHarish/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
