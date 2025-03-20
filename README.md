@@ -261,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/MadhanaHarish/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
