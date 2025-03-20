@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/MadhanaHarish/LeetCode/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/MadhanaHarish/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/MadhanaHarish/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhanaHarish/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
