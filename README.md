@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/MadhanaHarish/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/MadhanaHarish/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MadhanaHarish/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/MadhanaHarish/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/MadhanaHarish/LeetCode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/MadhanaHarish/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/MadhanaHarish/LeetCode/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
