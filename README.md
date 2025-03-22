@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/MadhanaHarish/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/MadhanaHarish/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/MadhanaHarish/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MadhanaHarish/LeetCode/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/MadhanaHarish/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/MadhanaHarish/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Memoization
 |  |
