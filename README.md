@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/MadhanaHarish/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhanaHarish/LeetCode/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/MadhanaHarish/LeetCode/tree/master/0504-base-7) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Counting Sort
 |  |
@@ -279,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0112-path-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
