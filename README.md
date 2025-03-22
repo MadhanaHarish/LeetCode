@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/MadhanaHarish/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/MadhanaHarish/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/MadhanaHarish/LeetCode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/MadhanaHarish/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
@@ -285,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/MadhanaHarish/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
