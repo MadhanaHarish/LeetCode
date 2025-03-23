@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/MadhanaHarish/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1833-find-the-highest-altitude](https://github.com/MadhanaHarish/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/MadhanaHarish/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
