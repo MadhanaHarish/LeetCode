@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MadhanaHarish/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/MadhanaHarish/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/MadhanaHarish/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/MadhanaHarish/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MadhanaHarish/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/MadhanaHarish/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
