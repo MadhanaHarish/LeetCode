@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Math
 |  |
@@ -330,4 +332,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/MadhanaHarish/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
