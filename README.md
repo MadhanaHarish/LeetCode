@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/MadhanaHarish/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [3533-snake-in-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/MadhanaHarish/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/MadhanaHarish/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3533-snake-in-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String Matching
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/MadhanaHarish/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1119-robot-bounded-in-circle](https://github.com/MadhanaHarish/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [3533-snake-in-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
 |  |
 | ------- |
