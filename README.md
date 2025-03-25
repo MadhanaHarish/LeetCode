@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/MadhanaHarish/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Math
 |  |
 | ------- |
