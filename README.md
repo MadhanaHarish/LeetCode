@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/MadhanaHarish/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -321,4 +322,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MadhanaHarish/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MadhanaHarish/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MadhanaHarish/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
