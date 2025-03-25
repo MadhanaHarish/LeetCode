@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/MadhanaHarish/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/MadhanaHarish/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MadhanaHarish/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/MadhanaHarish/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/MadhanaHarish/LeetCode/tree/master/1833-find-the-highest-altitude) |
