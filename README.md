@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/MadhanaHarish/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MadhanaHarish/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MadhanaHarish/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/MadhanaHarish/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MadhanaHarish/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/MadhanaHarish/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/MadhanaHarish/LeetCode/tree/master/0062-unique-paths) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/MadhanaHarish/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MadhanaHarish/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MadhanaHarish/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MadhanaHarish/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/MadhanaHarish/LeetCode/tree/master/0079-word-search) |
