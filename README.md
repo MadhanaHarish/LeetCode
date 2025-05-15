@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhanaHarish/LeetCode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
+| [0335-self-crossing](https://github.com/MadhanaHarish/LeetCode/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/MadhanaHarish/LeetCode/tree/master/0504-base-7) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/MadhanaHarish/LeetCode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0330-patching-array) |
+| [0335-self-crossing](https://github.com/MadhanaHarish/LeetCode/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -379,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/MadhanaHarish/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/MadhanaHarish/LeetCode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
