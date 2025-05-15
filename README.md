@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/MadhanaHarish/LeetCode/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MadhanaHarish/LeetCode/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MadhanaHarish/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MadhanaHarish/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MadhanaHarish/LeetCode/tree/master/0389-find-the-difference) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MadhanaHarish/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/MadhanaHarish/LeetCode/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/MadhanaHarish/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MadhanaHarish/LeetCode/tree/master/0389-find-the-difference) |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MadhanaHarish/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Combinatorics
 |  |
 | ------- |
