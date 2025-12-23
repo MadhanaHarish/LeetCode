@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0336-palindrome-pairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/MadhanaHarish/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MadhanaHarish/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhanaHarish/LeetCode/tree/master/0643-maximum-average-subarray-i) |
