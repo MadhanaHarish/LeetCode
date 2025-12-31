@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/MadhanaHarish/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MadhanaHarish/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/MadhanaHarish/LeetCode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/MadhanaHarish/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhanaHarish/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/MadhanaHarish/LeetCode/tree/master/1119-robot-bounded-in-circle) |
