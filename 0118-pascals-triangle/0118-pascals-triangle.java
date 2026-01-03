@@ -1,28 +1,25 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> dp = new ArrayList<>();
+        helper(1, numRows, dp);
+        return dp;
+    }
 
-        List<Integer> prevRow = new ArrayList<>(Arrays.asList(1));
-
-        if(numRows > 0) {
-            ans.add(prevRow);
+    private void helper(int row, int numRows, List<List<Integer>> dp) {
+        if(row > numRows) return;
+        List<Integer> currentRow = new ArrayList<>();
+        currentRow.add(1);
+        
+        for (int i = 1; i < row - 1; i++) {
+            int num = dp.get(row - 2).get(i - 1) + dp.get(row - 2).get(i);
+            currentRow.add(num);
         }
 
-        int lastIndex = numRows - 1;
-
-        for(int i = 1; i < numRows; i++) {
-            List<Integer> currentRow= new ArrayList<>();
+        if(row > 1) {
             currentRow.add(1);
-            int currentIndex = currentRow.size();
-            while(currentIndex < prevRow.size()) {
-                currentRow.add(prevRow.get(currentIndex - 1) + prevRow.get(currentIndex));
-                currentIndex++;
-            }
-            currentRow.add(1);
-            ans.add(currentRow);
-            prevRow = currentRow;
         }
 
-        return ans; 
+        dp.add(currentRow);
+        helper(row + 1, numRows, dp);
     }
 }
