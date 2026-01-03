@@ -1,14 +1,19 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int i = 0, j = 0;
-        
-        while (i < s.length() && j < t.length()) {
-            if (s.charAt(i) == t.charAt(j)) {
-                i++;
-            }
-            j++;
+
+        if(s.length() == 0) return true;
+
+        Queue<Character> string = new LinkedList<>();
+
+        for(char c: s.toCharArray()) {
+            string.add(c);
         }
-        
-        return i == s.length();
+   
+        for(char c: t.toCharArray()) {
+            if(!string.isEmpty() && c == string.peek()) string.poll(); 
+        }
+
+        return string.isEmpty();
     }
 }
+
