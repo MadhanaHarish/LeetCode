@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0112-path-sum) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0112-path-sum) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/MadhanaHarish/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MadhanaHarish/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/MadhanaHarish/LeetCode/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MadhanaHarish/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/MadhanaHarish/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/MadhanaHarish/LeetCode/tree/master/0120-triangle) |
@@ -412,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
 |  |
