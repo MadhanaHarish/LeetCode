@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/MadhanaHarish/LeetCode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/MadhanaHarish/LeetCode/tree/master/0335-self-crossing) |
+| [0343-integer-break](https://github.com/MadhanaHarish/LeetCode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MadhanaHarish/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/MadhanaHarish/LeetCode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/MadhanaHarish/LeetCode/tree/master/0458-poor-pigs) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/MadhanaHarish/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MadhanaHarish/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0343-integer-break](https://github.com/MadhanaHarish/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/MadhanaHarish/LeetCode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/MadhanaHarish/LeetCode/tree/master/0458-poor-pigs) |
 | [1105-uncrossed-lines](https://github.com/MadhanaHarish/LeetCode/tree/master/1105-uncrossed-lines) |
