@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/MadhanaHarish/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0765-couples-holding-hands](https://github.com/MadhanaHarish/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0904-leaf-similar-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/MadhanaHarish/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0330-patching-array) |
 | [0605-can-place-flowers](https://github.com/MadhanaHarish/LeetCode/tree/master/0605-can-place-flowers) |
+| [0765-couples-holding-hands](https://github.com/MadhanaHarish/LeetCode/tree/master/0765-couples-holding-hands) |
 | [0917-boats-to-save-people](https://github.com/MadhanaHarish/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhanaHarish/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0112-path-sum) |
+| [0765-couples-holding-hands](https://github.com/MadhanaHarish/LeetCode/tree/master/0765-couples-holding-hands) |
 ## Game Theory
 |  |
 | ------- |
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/MadhanaHarish/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0765-couples-holding-hands](https://github.com/MadhanaHarish/LeetCode/tree/master/0765-couples-holding-hands) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -453,4 +457,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MadhanaHarish/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhanaHarish/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Union Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/MadhanaHarish/LeetCode/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
