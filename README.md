@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1105-uncrossed-lines](https://github.com/MadhanaHarish/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1319-unique-number-of-occurrences](https://github.com/MadhanaHarish/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MadhanaHarish/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1470-shuffle-the-array](https://github.com/MadhanaHarish/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MadhanaHarish/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/MadhanaHarish/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1677-matrix-diagonal-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/1677-matrix-diagonal-sum) |
