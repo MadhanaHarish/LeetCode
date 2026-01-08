@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/MadhanaHarish/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0636-exclusive-time-of-functions](https://github.com/MadhanaHarish/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MadhanaHarish/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MadhanaHarish/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/MadhanaHarish/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MadhanaHarish/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MadhanaHarish/LeetCode/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/MadhanaHarish/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/MadhanaHarish/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MadhanaHarish/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MadhanaHarish/LeetCode/tree/master/0724-find-pivot-index) |
