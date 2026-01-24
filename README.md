@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MadhanaHarish/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MadhanaHarish/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MadhanaHarish/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/MadhanaHarish/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MadhanaHarish/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MadhanaHarish/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/MadhanaHarish/LeetCode/tree/master/0120-triangle) |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MadhanaHarish/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MadhanaHarish/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -453,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/MadhanaHarish/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MadhanaHarish/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
 |  |
